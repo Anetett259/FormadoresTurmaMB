@@ -23,10 +23,10 @@ lista.textContent = linguagens[2];
 
 // R8 - objetos
 let aluno1 = {
-   nome: "Murilo",
-   idade: 30,
+   nome: "Samara",
+   idade: 14,
    anoLetivo: "2º série",
-   MateriasFavoritas: ["Matematica", "Geografia"]
+   MateriasFavoritas: ["Front-End", "Banco de Dados"]
 }
 
 console.log(aluno1.nome);
