@@ -1,18 +1,16 @@
-body{
-    background-color:darkseagreen;
-    color: white;
+body  {	
+	background-color: #305050;
+	color: white;
 }
+
 h2{
-    color: #4E1F00;
-    
+  color:orange;
 }
-.texto_melhor{
-    color: #7B4019;
 
+.texto-inglês{
+    font-style: italic;
 }
-#nome_usuario{
- font-weight: bold;
- font-size: 60px;
- color: aqua;
 
+#nome-usuário{
+    font-weight: bold;
 }
