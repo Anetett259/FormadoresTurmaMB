@@ -30,11 +30,9 @@ let aluno1 = {
 }
 
 console.log(aluno1.nome);
-console.log(aluno1.MateriasFavoritas[0])
-
-const objeto = document.querySelector("#alunos");
-objeto.textContent = aluno1.nome
-objeto.textContent = aluno1.idade
+console.log(aluno1.idade);
+console.log(aluno1.materiasFavoritas);
+console.log(aluno1.materiasFavoritas[0])
 
 
 let perguntas = [
